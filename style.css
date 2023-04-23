@@ -1,0 +1,24 @@
+.searching {
+    padding: .5%;
+    width: 25%;
+}
+
+#search {
+    margin: 3% 0;
+    background-color: rgb(131, 201, 225);
+    color: white;
+    width: 100%;
+}
+
+.weather-area {
+    position: absolute;
+    right: 0;
+    width: 70%;
+    
+}
+
+.header {
+    text-align: center;
+    padding: .5%;
+    background-color: rgb(23, 230, 219);
+}
