@@ -14,11 +14,16 @@
     position: absolute;
     right: 0;
     width: 70%;
-    
 }
 
 .header {
     text-align: center;
     padding: .5%;
     background-color: rgb(23, 230, 219);
+}
+
+.info {
+    position: absolute;
+    right: 0;
+    width: 70%;
 }
